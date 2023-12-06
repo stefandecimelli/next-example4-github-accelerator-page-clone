@@ -3,7 +3,7 @@
   --background-colour: #051d4d;
   --header-bg: hsl(216 28% 7%/50%);
   --gradient-100: linear-gradient(93.23deg, #f778ba 2.35%, #79c0ff 76.99%);
-  --footer-height: 4rem;
+  --footer-height: 3rem;
   --default-font-size: 1.25rem;
   --default-line-height: 1.75rem;
 }
