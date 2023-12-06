@@ -1,0 +1,35 @@
+.wrapper {
+    margin: 6rem;
+}
+
+.wrapper>div {
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper>div>h2 {
+    margin: 6rem;
+}
+
+.programSections {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    row-gap: 2rem;
+    column-gap: 5rem;
+}
+
+.programSections>div {
+    flex: 0 0 33%;
+}
+
+.programSection * {
+    padding-top: 0;
+    margin-top: 0 !important;
+}
+
+.icon {
+    height: 3rem;
+    width: 3rem;
+    margin-bottom: 1rem;
+}

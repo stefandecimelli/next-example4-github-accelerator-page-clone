@@ -13,6 +13,7 @@ Mine            |  Theirs
 :-------------------------:|:-------------------------:
 ![mine](./images/mine.png) | ![theirs](./images/theirs.png)
 ![mine2](./images/mine2.png) | ![theirs2](./images/theirs2.png)
+![mine3](./images/mine3.png) | ![theirs3](./images/theirs3.png)
 
 ## Developing
 
