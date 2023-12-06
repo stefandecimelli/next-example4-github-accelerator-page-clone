@@ -1,0 +1,17 @@
+.wrapper {
+    display: flex;
+    overflow-x: hidden !important;
+    background-image: url("https://accelerator.github.com/images/bg-stars.svg");
+    max-width: 100%;
+    padding-left: 8rem;
+    padding-right: 8rem;
+}
+
+.wrapperText {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    max-width: 38rem;
+    position: relative;
+    z-index: 3;
+}

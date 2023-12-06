@@ -1,0 +1,11 @@
+.position {
+    left: auto;
+    height: auto;
+    margin-top: 0;
+    max-width: none;
+    position: absolute;
+    right: -130px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 800px;
+  }
