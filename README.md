@@ -9,8 +9,10 @@ The goal of the project was to gain more experience creating dynamic application
 
 I made mine ina blue hue background rather than purple to make te comparisons more obvious. See them below
 
-![mine](./images/mine.png)
-![theirs](./images/theirs.png)
+Mine            |  Theirs
+:-------------------------:|:-------------------------:
+![mine](./images/mine.png) | ![theirs](./images/theirs.png)
+![mine2](./images/mine2.png) | ![theirs2](./images/theirs2.png)
 
 ## Developing
 
