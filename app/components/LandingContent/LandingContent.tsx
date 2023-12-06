@@ -1,7 +1,7 @@
-import BackgroundImage from "./BackgroundImage";
+import BackgroundImage from "../BackgroundImage";
 import styles from "./LandingContent.module.css";
 
-export default function LandingContent() {
+export function LandingContent() {
     return (
         <div className={styles.wrapper}>
             <div className={styles.wrapperText}>

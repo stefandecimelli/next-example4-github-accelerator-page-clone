@@ -1,8 +1,8 @@
 import Link from "next/link";
 import styles from "./Footer.module.css"
-import { HOME_LINK } from "../lib/constants";
+import { HOME_LINK } from "../../lib/constants";
 
-export default function Footer() {
+export function Footer() {
     return (
         <footer className={styles.footer}>
             <div>

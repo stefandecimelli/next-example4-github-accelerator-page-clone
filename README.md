@@ -4,10 +4,10 @@
 The goal of the project was to gain more experience creating dynamic applications with Next.js. The excersise was to replicate the website https://accelerator.github.com/application.
 
 ### Outcomes
-1. I initialluy started the project with Tailwind CSS, but I removed it entirely seeing how messy it made my code. In addition, I also needed to add custom css stuff for all the fancy styling I stole from the GitHub page, and so tailwind did not save me from weriting css at all.
+1. I initially started the project with Tailwind CSS, but I removed it entirely seeing how messy it made my code. In addition, I also needed to add custom css stuff for all the fancy styling I stole from the GitHub page, and so Tailwind did not save me from writing css as much as I thought.
 2. The page is not an exact replica as there are a few px difference in a few components but it's definately good enough. 
 
-I made mine ina blue hue background rather than purple to make te comparisons more obvious. See them below
+I made mine in a blue background rather than purple to make te comparisons more obvious. See them below:
 
 Mine            |  Theirs
 :-------------------------:|:-------------------------:

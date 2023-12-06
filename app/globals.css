@@ -67,11 +67,10 @@ p {
 }
 
 section {
-  padding: max(9rem, min(18vh, 17rem)) 0 max(14rem, min(20vh, 22rem));
   background-image: url("https://accelerator.github.com/images/bg-stars.svg");
   background-position: 50%;
   overflow: hidden;
-  padding: 8rem 0;
+  padding: 5rem 0;
   position: relative;
   width: 100%;
   height: 100%;

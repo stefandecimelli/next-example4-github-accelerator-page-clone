@@ -1,8 +1,8 @@
 import Link from "next/link"
 import styles from "./NavBar.module.css";
-import { APPPLICATION_LINK, HOME_LINK, LOGO_SVG } from "../lib/constants";
+import { APPPLICATION_LINK, HOME_LINK, LOGO_SVG } from "../../lib/constants";
 
-export default function NavBar() {
+export function NavBar() {
     return (
         <header className={styles.header}>
             <div>

@@ -1,5 +1,5 @@
 import Link from "next/link";
-import styles from "../components/LandingContent.module.css"
+import styles from "../components/LandingContent/LandingContent.module.css"
 import { HOME_LINK } from "../lib/constants";
 
 export default function page() {
